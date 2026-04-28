@@ -4,13 +4,13 @@
 
 ## Overview
 
-CTF Framework is an automated Capture the Flag deployment platform developed as a capstone project to simplify the setup, management, and delivery of cybersecurity training environments. The framework allows instructors, students, and organizations to deploy a complete CTF event with vulnerable targets, web application labs, and a centralized scoring system in significantly less time than traditional manual builds.
+CTF Framework is an automated Capture the Flag deployment platform developed to simplify the setup, management, and delivery of cybersecurity training environments. The framework allows instructors, students, and organizations to deploy a complete CTF event with vulnerable targets, web application labs, and a centralized scoring system in significantly less time than traditional manual builds.
 
 This project combines infrastructure automation, containerized challenges, and competition management into a single framework that can be deployed, rebuilt, or removed through simple command-line controls.
 
 ---
 
-## Team / Organization
+## Team
 
 Build Break Repeat
 
